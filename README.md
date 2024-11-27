@@ -12,7 +12,7 @@ An app for reporting parking violations directly to vehicle owners without need 
 
 - **Notify**: Users can enter vehicle number of the vehicle who is wrongly parked. If the corresponding user is registered within the Gadi Alert, then a notification will be sent to their phone.
 
-- **Admin Control**: Security Guards can opt for an ADMIN access, so they can view the history of violation reporting. User can meet nearby security gaurd to tell them if the owner is still unable to reach, so security guard can call them.
+- **Admin Control**: Security Guards can opt for an ADMIN access, so they can view the history of violation reporting. User can meet nearby security gaurd to tell them if the owner is still unable to reply, so security guard can call them.
 
 - **View Location**: Users can set or view the location of vehicle and also can open in Google Maps.
 
@@ -24,9 +24,7 @@ An app for reporting parking violations directly to vehicle owners without need 
 
 This project is under a registered trademark and shared for a viewing purpose as of now. This will be launched live in iOS/Android platform within a month.
 
-## Disclaimer
+## Fun Fact
 
-Please note that U-Saver was initially created as a college project during my first semester, and it represents my exploration of Python and related technologies at that time.
-
-Happy video downloading with U-Saver!
+This was my 7th Semester Project, the idea was given by a university faculty, but the complete development is done under me.
 
