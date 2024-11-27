@@ -19,10 +19,13 @@ An app for reporting parking violations directly to vehicle owners without need 
 
 ## User Interface
 
-<img src="https://github.com/user-attachments/assets/47e5a645-9156-4a9f-9d64-0a5e4fec1201">
-<img src="https://github.com/user-attachments/assets/e846cfda-11f1-4724-89a2-934d25c37a02">
-<img src="https://github.com/user-attachments/assets/393dbe9e-653d-46f0-a6f5-11078e46192f">
-<img src="https://github.com/user-attachments/assets/9d8e1c48-d6ba-4443-b8e8-ec0bb6ca378c">
+![](https://github.com/user-attachments/assets/47e5a645-9156-4a9f-9d64-0a5e4fec1201)
+---
+![](https://github.com/user-attachments/assets/e846cfda-11f1-4724-89a2-934d25c37a02)
+---
+![](https://github.com/user-attachments/assets/393dbe9e-653d-46f0-a6f5-11078e46192f)
+---
+![](https://github.com/user-attachments/assets/9d8e1c48-d6ba-4443-b8e8-ec0bb6ca378c)
 
 ## License
 
