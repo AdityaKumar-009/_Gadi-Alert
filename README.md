@@ -1,5 +1,9 @@
 # Gadi Alert
-An app for reporting parking violations directly to vehicle owners without need to share personal information with them.
+An app for reporting parking violations directly to vehicle owners without need to share personal information with them. 
+- The code is in Private Repository as it will go live in production. 
+- Developed using React Native.
+
+![image](https://github.com/user-attachments/assets/237452a7-7a04-442c-83af-d57fa31e1f75)
 
 ## Features
 
