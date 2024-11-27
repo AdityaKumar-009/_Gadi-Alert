@@ -9,7 +9,7 @@ An app for reporting parking violations directly to vehicle owners without need 
 
 - **Notify**: Users can enter vehicle number of the vehicle who is wrongly parked. If the corresponding user is registered within the Gadi Alert, then a notification will be sent to their phone.
 
-- **Admin Control**: Security Guards can opt for an ADMIN access, so they can view the history of violation reporting. User can meet nearby security gaurd to tell them if the owner is still unable to reply, so security guard can call them.
+- **Admin View**: Security Guards can opt for an ADMIN access, so they can view the history of violation reporting. User can meet nearby security gaurd to tell them if the owner is still unable to reply, so security guard can call them.
 
 - **View Location**: Users can set or view the location of vehicle and also can open in Google Maps.
 
